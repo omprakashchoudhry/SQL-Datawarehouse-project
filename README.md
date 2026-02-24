@@ -190,7 +190,7 @@ All analytics queries are in `Scripts/Gold/analytics_queries.sql`:
 | Report Views | `vw_customer_report`, `vw_product_report` for BI tools |
 
 ---
-📊 [View Interactive Dashboard](Docs/sql_dw_dashboard.html)
+📊 [View Interactive Dashboard](Docs/dashboard_preview.jpeg)
 
 ## 🚀 How to Run
 
